@@ -1,0 +1,2 @@
+ BEFORE the date the average sentiment was1.0588235294117647 with 54.0 instances and a SD of0.3105971478222138
+ AFTER the date the average sentiment was1.1261261261261262 with 250.0 instances and an sd of 1.3324973939790903
